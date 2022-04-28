@@ -18,6 +18,7 @@ Proje Grup Üyeleri:
 A-Smart Analizi
 =============
 Derste öğrendiğimiz üzere Bir işe veya projeye kalkışmadan önce bir plan yapılmalıdır. Bu planı rastgele bir şekilde yapmak yerine bu projeye mühendis bakış açışıyla bakmak daha doğru ve yerinde bir karar olacaktır. Smart Analizi için Specific, Measurable, Achievable, Relevant, Time-bound kavramlarını kullanırız. Sözlerimizi fazla uzatmadan projemize geçmek isteriz.
+
 Specific
 -------------
 Öncelikle Specific kelimesi "belli" anlamına gelmektedir. Bizim belirlediğimiz kavram ve konu; fiziksel engelliler için ses komutları yardımıyla bir oyun projesi geliştirmektir. Herkesin bir engelli adayı olduğu düşünüldüğünde insanların kafa dağıtmaya ve eğlenmeye ihtiyacı olduğunu düşünüyoruz. Bu açıdan baktığımızda proje konumuzun "Fiziksel Engelliler için Araba Oyunu" olduğunu söyleyebiliriz.
