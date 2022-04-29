@@ -67,3 +67,6 @@ Yazılım, ürünü gerçekte olduğundan daha yaratıcı daha güçlü veya dah
 C- Düşüncelerimiz:
 =============
 İyi bir yazılım projesinin mümkün olduğunca daha az tasarım ve koşulları sağlamasını düşünmekteyiz. Bu yüzden projemizde çok karmaşık şeyler kullanmamaya, her kitleye hitap etmeye çalışacağız. Her  ne kadar projemizin büyük bir yoğunluğu Unity dersleri ve Test uygulamalarıyla geçmiş olsa da geri kalan zamanımızı en iyi şekilde değerlendirerek güzel bir proje sunmaya çalışacağız. 
+
+
+![alt text](https://github.com/mrengineer38/YMGKProject/blob/main/SWOT%20Analiz.png/image.jpg?raw=true)
