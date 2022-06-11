@@ -1,6 +1,6 @@
 ![alt text](https://github.com/mrengineer38/YMGKProject/blob/main/Oyun%20Resimleri/GameLogo.png)
 
-=============
+
 
 Oyun APK'sına buradan ulaşabilirsiniz!
 =============
