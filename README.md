@@ -9,6 +9,7 @@ Google Drive BETA SON SÜRÜM:
 Google Drive Alpha Sürüm (21 Nisan 2022): 
 [İLK SÜRÜM](https://drive.google.com/file/d/1knsZZuLcus9MsBa0ajcPjTA20KPHR5cy/view?usp=sharing)
 -----------------------------------
+GitHub Üzerinden Link: [Tıklayınız](https://github.com/mrengineer38/YMGKProject/blob/main/Proje%20APK/TelikeliYaris1.0.apk.zip)
 
 ### YMGK Yazılım Mühendisliği Güncel Konular Proje
 
