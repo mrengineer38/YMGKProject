@@ -10,7 +10,7 @@ Google Drive Alpha Sürüm (21 Nisan 2022):
 [İLK SÜRÜM](https://drive.google.com/file/d/1knsZZuLcus9MsBa0ajcPjTA20KPHR5cy/view?usp=sharing)
 -----------------------------------
 GitHub Üzerinden Link: [Tıklayınız](https://github.com/mrengineer38/YMGKProject/blob/main/Proje%20APK/TelikeliYaris1.0.apk.zip)
-
+-----------------------------------
 ### YMGK Yazılım Mühendisliği Güncel Konular Proje
 
 - Yazılım Mühendisliği Güncel Konular için arkadaşımla birlikte yapımına devam ettiğimiz projeyi sizlerle paylaşmak istiyoruz. Öncelikle projenin halen test aşamasında olduğunu belirtmek isteriz. Projemiz fiziksel olarak engelli bireyler için ses komutları yardımıyla oynayabilecekleri bir adet araba oyunu şeklinde olacaktır. 
