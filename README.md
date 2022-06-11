@@ -15,6 +15,8 @@ Google Drive Alpha Sürüm:
 -----------------------------------
 GitHub Üzerinden Link: [Tıklayınız](https://github.com/mrengineer38/YMGKProject/blob/main/Proje%20APK/TelikeliYaris1.0.apk.zip)
 -----------------------------------
+Projenin Kaynak Kodlarını indirmek için [tıklayınız](https://drive.google.com/drive/folders/1u_tYxqLpMFtfPWPTknUZwqp0a6-yexU4?usp=sharing)
+-----------------------------------
 ### YMGK Yazılım Mühendisliği Güncel Konular Proje
 
 - Yazılım Mühendisliği Güncel Konular için arkadaşımla birlikte yapımına devam ettiğimiz projeyi sizlerle paylaşmak istiyoruz. Öncelikle projenin halen test aşamasında olduğunu belirtmek isteriz. Projemiz fiziksel olarak engelli bireyler için ses komutları yardımıyla oynayabilecekleri bir adet araba oyunu şeklinde olacaktır. 
