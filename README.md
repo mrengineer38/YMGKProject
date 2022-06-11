@@ -1,13 +1,14 @@
 Oyun APK'sına buradan ulaşabilirsiniz!
 =============
 Oyunun APK Dosyasını Google Drive linkimiz üzerinden veya GitHub içerisinde ZIP'lenmiş olarak indirebilirsiniz.
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+
+----------------------------------
 Google Drive BETA SON SÜRÜM:
-[SON SÜRÜM] (https://drive.google.com/file/d/1bL6EyoAhnOwXKImvoJ8SRcodMOZDSuIw/view?usp=sharing)
-
+[SON SÜRÜM](https://drive.google.com/file/d/1bL6EyoAhnOwXKImvoJ8SRcodMOZDSuIw/view?usp=sharing)
+----------------------------------
 Google Drive Alpha Sürüm (21 Nisan 2022): 
-[İLK SÜRÜM] (https://drive.google.com/file/d/1knsZZuLcus9MsBa0ajcPjTA20KPHR5cy/view?usp=sharing)
-
+[İLK SÜRÜM](https://drive.google.com/file/d/1knsZZuLcus9MsBa0ajcPjTA20KPHR5cy/view?usp=sharing)
+-----------------------------------
 
 ### YMGK Yazılım Mühendisliği Güncel Konular Proje
 
