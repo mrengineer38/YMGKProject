@@ -1,3 +1,5 @@
+[Logo]https://github.com/mrengineer38/YMGKProject/blob/main/Oyun%20Resimleri/GameLogo.png
+
 Oyun APK'sına buradan ulaşabilirsiniz!
 =============
 Oyunun APK Dosyasını Google Drive linkimiz üzerinden veya GitHub içerisinde ZIP'lenmiş olarak indirebilirsiniz.
