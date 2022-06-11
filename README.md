@@ -1,3 +1,13 @@
+Oyun APK'sına buradan ulaşabilirsiniz!
+=============
+Oyunun APK Dosyasını Google Drive linkimiz üzerinden veya GitHub içerisinde ZIP'lenmiş olarak indirebilirsiniz.
+Google Drive BETA SON SÜRÜM:
+https://drive.google.com/file/d/1bL6EyoAhnOwXKImvoJ8SRcodMOZDSuIw/view?usp=sharing
+
+Google Drive Alpha Sürüm (21 Nisan 2022): 
+https://drive.google.com/file/d/1knsZZuLcus9MsBa0ajcPjTA20KPHR5cy/view?usp=sharing
+
+
 ### YMGK Yazılım Mühendisliği Güncel Konular Proje
 
 - Yazılım Mühendisliği Güncel Konular için arkadaşımla birlikte yapımına devam ettiğimiz projeyi sizlerle paylaşmak istiyoruz. Öncelikle projenin halen test aşamasında olduğunu belirtmek isteriz. Projemiz fiziksel olarak engelli bireyler için ses komutları yardımıyla oynayabilecekleri bir adet araba oyunu şeklinde olacaktır. 
