@@ -1,11 +1,12 @@
 Oyun APK'sına buradan ulaşabilirsiniz!
 =============
 Oyunun APK Dosyasını Google Drive linkimiz üzerinden veya GitHub içerisinde ZIP'lenmiş olarak indirebilirsiniz.
+
 Google Drive BETA SON SÜRÜM:
-https://drive.google.com/file/d/1bL6EyoAhnOwXKImvoJ8SRcodMOZDSuIw/view?usp=sharing
+[SON SÜRÜM] (https://drive.google.com/file/d/1bL6EyoAhnOwXKImvoJ8SRcodMOZDSuIw/view?usp=sharing)
 
 Google Drive Alpha Sürüm (21 Nisan 2022): 
-https://drive.google.com/file/d/1knsZZuLcus9MsBa0ajcPjTA20KPHR5cy/view?usp=sharing
+[İLK SÜRÜM] (https://drive.google.com/file/d/1knsZZuLcus9MsBa0ajcPjTA20KPHR5cy/view?usp=sharing)
 
 
 ### YMGK Yazılım Mühendisliği Güncel Konular Proje
