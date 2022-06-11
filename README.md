@@ -73,3 +73,20 @@ C- SWOT Analizi
 D- Düşüncelerimiz
 =============
 İyi bir yazılım projesinin mümkün olduğunca daha az tasarım ve koşulları sağlamasını düşünmekteyiz. Bu yüzden projemizde çok karmaşık şeyler kullanmamaya, her kitleye hitap etmeye çalışacağız. Her  ne kadar projemizin büyük bir yoğunluğu Unity dersleri ve Test uygulamalarıyla geçmiş olsa da geri kalan zamanımızı en iyi şekilde değerlendirerek güzel bir proje sunmaya çalışacağız. 
+
+E- Oyun ve Daha Fazlası
+=============
+
+Oyunumuzu gece ve gündüz modları olacak şekilde tamamladık. Oyunumuzun içerisinde hem butonlarla hem de telefon sensörüyle yönetme mevcuttur. Oyunumuzun içerisinde toplamda 6 adet araç bulunuyor. 1 araç 100.000 puana ulaştıktan sonra açılıyor. Ayrıca araçların her birinin kendi içerisinde can değerleri, dayanıklılığı, çevikliği ve atikliği bulunuyor. Daha fazla Score kazanabilmek için hızlı giden araçları tercih edebilirsiniz. Son güncellememizle birlikte hızlı giden araçları daha kırılgan yaptık. 
+
+F- Oyun içerisinden Kareler
+=============
+![alt text](https://github.com/mrengineer38/YMGKProject/blob/main/Oyun%20Resimleri/Game_1.png)
+
+![alt text](https://github.com/mrengineer38/YMGKProject/blob/main/Oyun%20Resimleri/Game_2.png)
+
+![alt text](https://github.com/mrengineer38/YMGKProject/blob/main/Oyun%20Resimleri/Game_3.png)
+
+![alt text](https://github.com/mrengineer38/YMGKProject/blob/main/Oyun%20Resimleri/Game_4.png)
+
+![alt text](https://github.com/mrengineer38/YMGKProject/blob/main/Oyun%20Resimleri/Game_5.png)
