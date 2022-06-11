@@ -7,10 +7,10 @@ Oyun APK'sına buradan ulaşabilirsiniz!
 Oyunun APK Dosyasını Google Drive linkimiz üzerinden veya GitHub içerisinde ZIP'lenmiş olarak indirebilirsiniz.
 
 ----------------------------------
-Google Drive BETA SON SÜRÜM:
+Google Drive Beta SON SÜRÜM:
 [SON SÜRÜM](https://drive.google.com/file/d/1bL6EyoAhnOwXKImvoJ8SRcodMOZDSuIw/view?usp=sharing)
 ----------------------------------
-Google Drive Alpha Sürüm (21 Nisan 2022): 
+Google Drive Alpha Sürüm: 
 [İLK SÜRÜM](https://drive.google.com/file/d/1knsZZuLcus9MsBa0ajcPjTA20KPHR5cy/view?usp=sharing)
 -----------------------------------
 GitHub Üzerinden Link: [Tıklayınız](https://github.com/mrengineer38/YMGKProject/blob/main/Proje%20APK/TelikeliYaris1.0.apk.zip)
