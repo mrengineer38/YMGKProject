@@ -1,7 +1,7 @@
 Oyun APK'sına buradan ulaşabilirsiniz!
 =============
 Oyunun APK Dosyasını Google Drive linkimiz üzerinden veya GitHub içerisinde ZIP'lenmiş olarak indirebilirsiniz.
-
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 Google Drive BETA SON SÜRÜM:
 [SON SÜRÜM] (https://drive.google.com/file/d/1bL6EyoAhnOwXKImvoJ8SRcodMOZDSuIw/view?usp=sharing)
 
