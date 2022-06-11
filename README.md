@@ -1,4 +1,4 @@
-<p align="center"> ![alt text](https://github.com/mrengineer38/YMGKProject/blob/main/Oyun%20Resimleri/GameLogo.png)</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mrengineer38&label=Profile%20views&color=0e75b6&style=flat" alt="mrengineer38"(https://github.com/mrengineer38/YMGKProject/blob/main/Oyun%20Resimleri/GameLogo.png) /> </p>
 
 
 
