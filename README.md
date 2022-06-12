@@ -21,6 +21,8 @@ GitHub Üzerinden Link: [Tıklayınız](https://github.com/mrengineer38/YMGKProj
 -----------------------------------
 Projenin Kaynak Kodlarını indirmek için [tıklayınız](https://drive.google.com/drive/folders/1u_tYxqLpMFtfPWPTknUZwqp0a6-yexU4?usp=sharing)
 -----------------------------------
+Projenin User Guide (Kullanıcı Kılavuzu) dosyasına ulaşmak için [tıklayınız](https://github.com/mrengineer38/YMGKProject/blob/main/User%20Guide%20-%20Kullan%C4%B1c%C4%B1%20K%C4%B1lavuzu.pdf)
+-----------------------------------
 ### YMGK Yazılım Mühendisliği Güncel Konular Proje
 
 - Yazılım Mühendisliği Güncel Konular için arkadaşımla birlikte yapımına devam ettiğimiz projeyi sizlerle paylaşmak istiyoruz. Öncelikle projenin halen test aşamasında olduğunu belirtmek isteriz. Projemiz fiziksel olarak engelli bireyler için ses komutları yardımıyla oynayabilecekleri bir adet araba oyunu şeklinde olacaktır. 
