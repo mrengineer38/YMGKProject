@@ -2,7 +2,7 @@
 
 Oyun Tanıtım Videomuz
 =============
-<p align= "center"> [Link](https://www.youtube.com/watch?v=8WSYHjXdSBA) </p>
+[![Video İçin Tıklayınız!](https://img.youtube.com/vi/8WSYHjXdSBA.jpg)](https://www.youtube.com/watch?v=8WSYHjXdSBA.jpg)
 
 Oyun APK'sına buradan ulaşabilirsiniz!
 =============
