@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://github.com/mrengineer38/YMGKProject/blob/main/Oyun%20Resimleri/GameLogo.png" alt="mrengineer38" /> </p>
 
-<p align= "center"> Oyun Tanıtım Videomuz </p>
+Oyun Tanıtım Videomuz 
 ---------------------
 Buraya [Tıklayarak](https://www.youtube.com/watch?v=8WSYHjXdSBA) Youtube Üzerinden Videomuza ulaşabilirsiniz.
 ---------------------
